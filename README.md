@@ -7,7 +7,7 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 --> 
 
 ## 📍 Projects 
-- SQL Pizza Place Project 
+- [SQL - Pizza Place Sales](https://github.com/annetteorrick/Pizza-Place-Sales)
 
 
 ## 💡 My Skills
