@@ -18,7 +18,11 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 ## 🛠️ My Tools
 - Databases: Microsoft SQL Server, Excel
 - Visualization: Tableau
+- Presentations: Powerpoint, GSuite
 - Project Management: Trello, JIRA, Azana, Monday
+
+## 🌟 Resume 
+- [Resume PDF](https://github.com/annetteorrick/Resume) 
 
 
 ## 👋🏼 Connect with Me 
