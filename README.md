@@ -22,7 +22,7 @@ I love data analytics because it is systematic, investigative, and focuses on pr
 - Project Management: Trello, JIRA, Azana, Monday
 
 ## 🌟 Resume 
-- [Resume PDF](https://github.com/annetteorrick/Resume) 
+- [Resume PDF](https://github.com/annetteorrick/Resume](https://github.com/annetteorrick/Resume/blob/main/Orrick-Judith-Annette-Resume.pdf)
 
 
 ## 👋🏼 Connect with Me 
